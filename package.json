@@ -1,0 +1,20 @@
+{
+  "name": "phonecall",
+  "version": "1.0.0",
+  "description": "Some phone usage rate may be described as follows:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/phoneCall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/phoneCall/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/phoneCall#readme"
+}
